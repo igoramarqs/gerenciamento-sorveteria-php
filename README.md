@@ -20,7 +20,7 @@ No painel contém diversas funcionalidades tais como:
 
 **Front-end:** HTML, CSS, Bootstrap, SB Admin 2
 
-**Back-end:** PHP, Javascript, Nodejs, jQuery
+**Back-end:** PHP, Javascript, jQuery
 
 **Base de dados:** MySQL 8
 ## Screenshots
